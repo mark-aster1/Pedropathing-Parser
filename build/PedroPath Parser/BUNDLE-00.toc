@@ -1,0 +1,3 @@
+([('PedroPath Parser',
+   '/Users/aster/StudioProjects/AutoFormatter/dist/PedroPath Parser',
+   'EXECUTABLE')],)
