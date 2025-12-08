@@ -1,5 +1,3 @@
-A quick an easy way to test pedro path visualizer trajectories. (.pp File to .java class Parser)
-
 
 
 **Tutorial (step by step):**
